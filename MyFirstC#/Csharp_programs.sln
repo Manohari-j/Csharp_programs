@@ -5,13 +5,13 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstCsharp", "MyFirstC#\MyFirstCsharp.csproj", "{C5DB6F1E-2792-44D9-A57E-572BE3335B5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hypotenuse", "Hypotenuse\Hypotenuse.csproj", "{AF3833B3-FF6A-4E69-9566-0BEE5ABD2A96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hypotenuse", "Hypotenuse\Hypotenuse.csproj", "{AF3833B3-FF6A-4E69-9566-0BEE5ABD2A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_Guessing", "..\Number_Guessing\Number_Guessing.csproj", "{C5DACD07-A0A7-4A03-85D8-FA25D3F24DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number_Guessing", "..\Number_Guessing\Number_Guessing.csproj", "{C5DACD07-A0A7-4A03-85D8-FA25D3F24DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "..\RockPaperScissors\RockPaperScissors.csproj", "{E8824482-A8C9-4CEA-8683-9211D760B133}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissors", "..\RockPaperScissors\RockPaperScissors.csproj", "{E8824482-A8C9-4CEA-8683-9211D760B133}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "..\Multithreading\Multithreading.csproj", "{D1004AC5-2F44-46B2-96DB-181B08BE7CD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multithreading", "..\Multithreading\Multithreading.csproj", "{D1004AC5-2F44-46B2-96DB-181B08BE7CD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
